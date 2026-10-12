@@ -10,7 +10,7 @@ Une fois installé, le launcher vérifie lui-même les nouvelles versions à cha
 Chaque release contient aussi :
 
 - `SHA256SUMS.txt` : les empreintes des fichiers (le launcher vérifie l'installeur avant de le lancer) ;
-- `source.zip` : le code source du launcher (licence AGPL-3.0, comme le projet dont il intègre des composants) ;
+- le code source du launcher n'est pas publié : il est fourni sur demande à toute personne qui a reçu le launcher (licence AGPL-3.0, comme le projet dont il intègre des composants) ;
 - la documentation et les mentions de licences.
 
 ## Ce que fait le launcher
